@@ -5,6 +5,8 @@ bin-release/
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
 
+*.as linguist-language=ActionScript
+
 # Other files and folders
 .settings/
 
